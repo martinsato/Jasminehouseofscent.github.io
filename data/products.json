@@ -1,0 +1,134 @@
+[
+  {
+    "name": "Classic Red Rose Bouquet",
+    "category": "flowers",
+    "price": 3500,
+    "priceFrom": false,
+    "description": "A dozen fresh red roses, hand-tied and wrapped in black and gold.",
+    "image": "images/products/red-roses.svg",
+    "occasions": ["Valentine's Day", "Anniversaries", "Birthdays"],
+    "featured": true,
+    "available": true
+  },
+  {
+    "name": "Mixed Seasonal Bouquet",
+    "category": "flowers",
+    "price": 2500,
+    "priceFrom": true,
+    "description": "Today's freshest blooms, arranged by us. Tell us your budget and colours.",
+    "image": "images/products/mixed-bouquet.svg",
+    "occasions": ["Birthdays", "Get well soon", "Mother's Day"],
+    "featured": true,
+    "available": true
+  },
+  {
+    "name": "Luxury Flower Box",
+    "category": "flowers",
+    "price": 6000,
+    "priceFrom": false,
+    "description": "Premium roses set in an elegant keepsake box.",
+    "image": "images/products/flower-box.svg",
+    "occasions": ["Anniversaries", "Valentine's Day", "Corporate gifts"],
+    "featured": true,
+    "available": true
+  },
+  {
+    "name": "Mini Bouquet",
+    "category": "flowers",
+    "price": 1000,
+    "priceFrom": true,
+    "description": "A small, sweet bunch of fresh flowers. Perfect for a quick 'thinking of you'.",
+    "image": "images/products/mini-bouquet.svg",
+    "occasions": ["Birthdays", "Graduations"],
+    "featured": false,
+    "available": true
+  },
+  {
+    "name": "Sympathy Arrangement",
+    "category": "flowers",
+    "price": 4000,
+    "priceFrom": true,
+    "description": "White and cream flowers to express sympathy and respect.",
+    "image": "images/products/sympathy.svg",
+    "occasions": ["Sympathy"],
+    "featured": false,
+    "available": true
+  },
+  {
+    "name": "Lattafa Perfume",
+    "category": "perfumes",
+    "price": 3500,
+    "priceFrom": true,
+    "description": "Long-lasting Arabian fragrances for women and men. Ask for available scents.",
+    "image": "images/products/lattafa.svg",
+    "occasions": ["Birthdays", "Anniversaries", "Corporate gifts"],
+    "featured": true,
+    "available": true
+  },
+  {
+    "name": "Khadlaj Perfume",
+    "category": "perfumes",
+    "price": 3000,
+    "priceFrom": true,
+    "description": "Rich, elegant scents. Ask us which ones are in stock today.",
+    "image": "images/products/khadlaj.svg",
+    "occasions": ["Birthdays", "Father's Day"],
+    "featured": false,
+    "available": true
+  },
+  {
+    "name": "Rasasi Perfume",
+    "category": "perfumes",
+    "price": 3500,
+    "priceFrom": true,
+    "description": "Classic Rasasi fragrances in a range of sizes.",
+    "image": "images/products/rasasi.svg",
+    "occasions": ["Birthdays", "Anniversaries"],
+    "featured": false,
+    "available": true
+  },
+  {
+    "name": "Perfume Oils",
+    "category": "perfumes",
+    "price": 500,
+    "priceFrom": true,
+    "description": "Concentrated perfume oils from 1 ml. Great for trying a new scent.",
+    "image": "images/products/perfume-oils.svg",
+    "occasions": [],
+    "featured": false,
+    "available": true
+  },
+  {
+    "name": "Body Mist",
+    "category": "perfumes",
+    "price": 1200,
+    "priceFrom": true,
+    "description": "Light, fresh body mists for everyday wear.",
+    "image": "images/products/body-mist.svg",
+    "occasions": ["Birthdays"],
+    "featured": false,
+    "available": true
+  },
+  {
+    "name": "Flowers & Perfume Gift Set",
+    "category": "gifts",
+    "price": 5500,
+    "priceFrom": true,
+    "description": "A bouquet with a perfume of your choice, beautifully wrapped together.",
+    "image": "images/products/gift-set.svg",
+    "occasions": ["Valentine's Day", "Mother's Day", "Anniversaries"],
+    "featured": true,
+    "available": true
+  },
+  {
+    "name": "Chocolates, Teddy & Balloon Add-on",
+    "category": "gifts",
+    "price": 1500,
+    "priceFrom": true,
+    "description": "Add chocolates, a teddy bear or balloons to any order.",
+    "image": "images/products/add-ons.svg",
+    "occasions": ["Birthdays", "Valentine's Day", "Graduations"],
+    "featured": false,
+    "available": true
+  }
+]

@@ -1,0 +1,73 @@
+{
+  "_note": "Edit the text between the quotes to update the website. Items marked CONFIRM still need checking.",
+
+  "businessName": "Jasmine Scents and Blooms",
+  "tagline": "All Fresh",
+  "heroTitle": "Fresh flowers & fine fragrances, delivered with love",
+  "heroText": "Bouquets, perfumes and curated gift packages for every moment, from our two shops in Kisii to your door.",
+  "swahiliGreeting": "Karibu!",
+  "heroImage": "images/products/red-roses.svg",
+
+  "whatsapp": "254739992409",
+  "phones": ["+254 717 022 752", "+254 739 992 409"],
+  "phonesStatus": "CONFIRM: numbers were typed as +245717022752 and +2540739992409",
+  "email": "",
+  "mpesa": "",
+
+  "socials": {
+    "facebook": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+
+  "openingHours": [
+    { "days": "Monday – Saturday", "hours": "8:00 am – 7:00 pm" },
+    { "days": "Sunday", "hours": "Open on request" }
+  ],
+
+  "sameDayCutoff": "9:00 am",
+  "deliveryAreas": ["Kisii", "Nyamira", "Migori", "Homa Bay", "Kilgoris"],
+  "deliveryNote": "We deliver to all areas. The delivery fee depends on distance. Ask us on WhatsApp for a quote.",
+  "returnsPolicy": "Because flowers are fresh and perfumes are personal, we do not accept returns. Please ask us anything before you order.",
+
+  "story": [
+    "Jasmine Scents and Blooms started in November 2025 with a simple love for beautiful fragrances.",
+    "We began with perfumes, then added fresh flowers, curated gift packages, elegant custom wrapping and thoughtful gifts, so you can find everything for a special moment in one place."
+  ],
+
+  "shops": [
+    {
+      "name": "Shop A – St Jude–Ram Hospital Road",
+      "address": "Along St Jude–Ram Hospital Road, at the upper entrance of Unique Supermarket's main parking lot, Kisii",
+      "directions": "Come to the Unique Supermarket main parking lot and take the upper entrance. We are right there.",
+      "mapQuery": "Unique Supermarket Kisii"
+    },
+    {
+      "name": "Shop B – Hema Shopping Centre",
+      "address": "Hema Shopping Centre, Kisii (CONFIRM: shopping centre or hospital?)",
+      "directions": "Inside Hema Shopping Centre, just before you cross over to the road that heads to Kisii Primary School.",
+      "mapQuery": "Hema Shopping Centre Kisii"
+    }
+  ],
+
+  "occasions": ["Birthdays", "Valentine's Day", "Mother's Day", "Father's Day", "Anniversaries", "Weddings", "Graduations", "Get well soon", "Corporate gifts", "Sympathy", "Christmas"],
+
+  "extras": ["Gift message card", "Gift wrapping", "Chocolates", "Balloons", "Teddy bears", "Custom orders"],
+
+  "events": [
+    { "title": "Weddings", "text": "Bridal bouquets, bridesmaids' flowers, buttonholes and table arrangements in your colours." },
+    { "title": "Funerals & sympathy", "text": "Wreaths, sprays and sympathy bouquets, prepared with care and delivered on time." },
+    { "title": "Event decoration", "text": "Flowers for parties, graduations, launches and corporate events." },
+    { "title": "Flower subscriptions", "text": "Fresh flowers for your home or office, delivered every week or month." }
+  ],
+
+  "faq": [
+    { "q": "Do you deliver?", "a": "Yes. We deliver to Kisii, Nyamira, Migori, Homa Bay, Kilgoris and other areas. The fee depends on distance." },
+    { "q": "Can I get same-day delivery?", "a": "Yes, for orders confirmed before 9:00 am. Later orders are delivered the next day." },
+    { "q": "What is your cheapest bouquet?", "a": "Our bouquets start from KES 1,000. Send us your budget on WhatsApp and we will suggest options." },
+    { "q": "Can I buy single stems?", "a": "Yes. Ask us on WhatsApp for today's flowers and the price per stem." },
+    { "q": "How do I pay?", "a": "By M-Pesa. We confirm your order and the total on WhatsApp before you pay." }
+  ],
+
+  "reviews": []
+}

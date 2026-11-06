@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Weddings & Events | Jasmine Scents and Blooms</title>
+  <meta name="description" content="Wedding flowers, funeral and sympathy flowers, event decoration and flower subscriptions in Kisii.">
+  <link rel="icon" href="images/favicon.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;1,500&family=Jost:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body data-page="events">
+  <div id="site-header"></div>
+
+  <main>
+    <section class="page-hero">
+      <div class="container">
+        <span class="eyebrow">Weddings &amp; events</span>
+        <h1>Flowers for life's big moments</h1>
+        <p>From weddings to farewells, we prepare every arrangement with care and deliver on time.</p>
+      </div>
+    </section>
+
+    <section class="section section--dark">
+      <div class="container">
+        <div class="panel-grid" id="event-list"></div>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="container two-col">
+        <div>
+          <span class="eyebrow">Plan with us</span>
+          <h2>Tell us about your event</h2>
+          <p>Fill in a few details and tap the button. WhatsApp will open with your message ready to send, and we'll reply with ideas and a quote.</p>
+          <p class="swahili">Tutafurahi kukusaidia.</p>
+        </div>
+        <form class="panel form" id="event-form">
+          <label>Your name
+            <input name="name" required autocomplete="name">
+          </label>
+          <div class="form-row">
+            <label>Type of event
+              <select name="type">
+                <option>Wedding</option>
+                <option>Funeral / sympathy</option>
+                <option>Birthday or party</option>
+                <option>Graduation</option>
+                <option>Corporate event</option>
+                <option>Flower subscription</option>
+                <option>Other</option>
+              </select>
+            </label>
+            <label>Date
+              <input name="date" type="date">
+            </label>
+          </div>
+          <div class="form-row">
+            <label>Location
+              <input name="location" placeholder="e.g. Kisii town">
+            </label>
+            <label>Budget (KES)
+              <input name="budget" placeholder="e.g. 20,000">
+            </label>
+          </div>
+          <label>Colours, flowers or other details
+            <textarea name="details" placeholder="e.g. white and gold, roses, 10 table arrangements"></textarea>
+          </label>
+          <button class="btn btn--dark" type="submit">Send on WhatsApp</button>
+        </form>
+      </div>
+    </section>
+  </main>
+
+  <div id="site-footer"></div>
+  <script src="js/main.js"></script>
+</body>
+</html>
